@@ -1,0 +1,1 @@
+# yariklegkiyblog-wordpress-theme

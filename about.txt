@@ -1,0 +1,9 @@
+Name base data:
+yarik_legkiy_blog
+wp
+login:
+Yarik Legkiy
+password:
+QU#g4Lz@JhzxzLrr!r
+email:
+yariklegkiy@gmail.com
