@@ -41,7 +41,7 @@
                                 <a class="card__category" href="<?php echo $category_link; ?>"><?php $cat = get_the_category();
                                                                                                 echo $cat[0]->cat_name; ?></a>
                                 <div class="eye">
-                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/open-eye.png" alt="eye">
+                                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/icons8-eye-24.png" alt="eye">
                                     <p><?php do_action('pageviews'); ?></p>
                                 </div>
                             </div>
